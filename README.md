@@ -1,5 +1,5 @@
 ###### Hi there 👋
-I am Arif, a CloudLinuxDeveloper Engineer from Bangladeshi Presently working as IT Assistant at Bangladesh University of Business and Technology
+I am Arif, a CloudLinuxDeveloper Engineer from Bangladeshi Presently working as as SYSTEM ADMINISTRATOR at Bangladesh University of Business and Technology
 (BUBT ) & having solid working experience of 10 years’ in the field of IT Architecture, Network & Security System, Process Development,
 IT configuration, Performance Evaluation of System,
 ● Technology, automation initiatives along with expertise in IT infrastructure planning & development. I have working experience NOC Call Center.
